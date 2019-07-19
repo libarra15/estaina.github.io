@@ -185,6 +185,7 @@ float:left;}
   float: left;
   width: 50%;
   padding: 5px;
+  display: inline;
 }
 .red::after{
   content:"";
@@ -285,6 +286,7 @@ float:left;}
   float: left;
   width: 50%;
   padding: 5px;
+  display: inline;
 }
 .red::after{
   content:"";
