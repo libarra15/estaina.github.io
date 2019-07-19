@@ -255,10 +255,19 @@ float:left;}
 }
 .blue{
   display: flex;
-  flex-direction: row;
-  width: 25%;
-  padding: 5px;
+  flex-direction: wrap;
+  margin-left: auto;
+  margin-right: auto;
 }
+.blue > div > img {
+  width: 312.5px;
+  height: auto;
+  object-fit: cover;
+}
+.blue > .red {
+  flex: 1 1 150px;
+}
+
 .dog{
   text-align: center;
   font-size: 9;
