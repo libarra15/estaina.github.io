@@ -95,8 +95,8 @@ float:left;}
   text-align: center;
 }
 body {text-shadow: 2px 3px 5px white;
-background-color: #ffffff;}
-=======
+background-color: #ffffff;
+}
 
 #intro{
   text-align: center;
@@ -195,8 +195,9 @@ float:left;}
 }
 
 body {text-shadow: 2px 2px 2px white;
-background-color: #feffcc;}
-=======
+background-color: #ffffff;
+}
+
 #intro{
   text-align: center;
 }
@@ -294,7 +295,8 @@ float:left;}
   font-size: 9;
 }
 body {text-shadow: 2px 3px 5px white;
-background-color: #feffcc;}
+background-color: #ffffff;
+}
 
 .center {
   display: block;
