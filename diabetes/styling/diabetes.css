@@ -81,8 +81,6 @@ float:left;}
   clear:both;
   display: table;
 }
-.blue{
-  display: flex;
 }
 #dog{
   text-align: center;
@@ -167,11 +165,6 @@ float:left;}
   float:right;
   width: 50%;
   padding: 5px;
-}
-.row::after{
-  content: "";
-  clear:both;
-  display: table;
 }
 .blue{
   display: flex;
@@ -271,14 +264,10 @@ float:left;}
   display: table;
 }
 .blue{
-  float: left;
-  width: 50%;
+  display: flex;
+  flex-direction: row;
+  width: 25%;
   padding: 5px;
-}
-.red::after{
-  content:"";
-  clear: both;
-  display: table;
 }
 .dog{
   text-align: center;
