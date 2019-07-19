@@ -271,14 +271,10 @@ float:left;}
   display: table;
 }
 .blue{
-  float: left;
-  width: 50%;
+  display: flex;
+  flex-direction: row;
+  width: 25%;
   padding: 5px;
-}
-.red::after{
-  content:"";
-  clear: both;
-  display: table;
 }
 .dog{
   text-align: center;
