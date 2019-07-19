@@ -84,10 +84,6 @@ float:left;}
 .blue{
   display: flex;
 }
-.red:after{
-  column: 50%;
-  padding: 5px;
-}
 #dog{
   text-align: center;
 }
