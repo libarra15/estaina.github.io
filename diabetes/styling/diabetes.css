@@ -82,14 +82,11 @@ float:left;}
   display: table;
 }
 .blue{
-  float: left;
-  width: 50%;
-  padding: 5px;
+  display: flex;
 }
 .red:after{
-  content:"";
-  clear: both;
-  display: table;
+  column: 50%;
+  padding: 5px;
 }
 #dog{
   text-align: center;
