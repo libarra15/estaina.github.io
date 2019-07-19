@@ -256,7 +256,7 @@ float:left;}
 .blue{
   display: flex;
   flex-direction: row;
-  width: 25%;
+  width: 415px;
   padding: 5px;
 }
 .dog{
