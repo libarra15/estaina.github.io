@@ -259,6 +259,12 @@ float:left;}
   width: 415px;
   padding: 5px;
 }
+.liz{
+  display: flex;
+  flex-direction: row;
+  width: 625px;
+  padding: 5px;
+}
 .dog{
   text-align: center;
   font-size: 9;
